@@ -1,0 +1,7 @@
+.idea
+*.pyc
+IMDBSearcher/migrations/0001_initial.py
+*.pyc
+*.iml
+.idea/misc.xml
+*.pyc
